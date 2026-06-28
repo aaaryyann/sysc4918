@@ -1,0 +1,113 @@
+============================================================
+EXPERIMENTAL RESULTS SUMMARY
+============================================================
+
+Criterion A (initial)   : ADC
+Criterion B (augmented) : STMT
+
+Suites generated        : 100
+Total augmentations     : 1000
+Fault revealed          : 64 (6.4%)
+Not revealed            : 936
+
+------------------------------------------------------------
+  Suite 1: initial=9, augmentations=10, revealed=0, avg_aug_size=12.8
+  Suite 2: initial=9, augmentations=10, revealed=0, avg_aug_size=12.6
+  Suite 3: initial=9, augmentations=10, revealed=0, avg_aug_size=12.0
+  Suite 4: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 5: initial=9, augmentations=10, revealed=0, avg_aug_size=12.0
+  Suite 6: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 7: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 8: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 9: initial=9, augmentations=10, revealed=2, avg_aug_size=12.8
+  Suite 10: initial=9, augmentations=10, revealed=2, avg_aug_size=13.0
+  Suite 11: initial=9, augmentations=10, revealed=2, avg_aug_size=12.8
+  Suite 12: initial=9, augmentations=10, revealed=0, avg_aug_size=12.0
+  Suite 13: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 14: initial=9, augmentations=10, revealed=0, avg_aug_size=12.5
+  Suite 15: initial=9, augmentations=10, revealed=1, avg_aug_size=12.6
+  Suite 16: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 17: initial=9, augmentations=10, revealed=2, avg_aug_size=13.0
+  Suite 18: initial=9, augmentations=10, revealed=1, avg_aug_size=12.9
+  Suite 19: initial=9, augmentations=10, revealed=0, avg_aug_size=12.7
+  Suite 20: initial=9, augmentations=10, revealed=1, avg_aug_size=12.7
+  Suite 21: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 22: initial=9, augmentations=10, revealed=0, avg_aug_size=12.6
+  Suite 23: initial=9, augmentations=10, revealed=2, avg_aug_size=13.0
+  Suite 24: initial=9, augmentations=10, revealed=0, avg_aug_size=12.0
+  Suite 25: initial=9, augmentations=10, revealed=0, avg_aug_size=12.0
+  Suite 26: initial=9, augmentations=10, revealed=0, avg_aug_size=12.7
+  Suite 27: initial=9, augmentations=10, revealed=1, avg_aug_size=12.6
+  Suite 28: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 29: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 30: initial=9, augmentations=10, revealed=3, avg_aug_size=12.8
+  Suite 31: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 32: initial=9, augmentations=10, revealed=1, avg_aug_size=12.9
+  Suite 33: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 34: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 35: initial=9, augmentations=10, revealed=0, avg_aug_size=12.0
+  Suite 36: initial=9, augmentations=10, revealed=0, avg_aug_size=12.7
+  Suite 37: initial=9, augmentations=10, revealed=0, avg_aug_size=12.0
+  Suite 38: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 39: initial=9, augmentations=10, revealed=0, avg_aug_size=12.8
+  Suite 40: initial=9, augmentations=10, revealed=0, avg_aug_size=12.7
+  Suite 41: initial=9, augmentations=10, revealed=1, avg_aug_size=12.9
+  Suite 42: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 43: initial=9, augmentations=10, revealed=0, avg_aug_size=12.7
+  Suite 44: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 45: initial=9, augmentations=10, revealed=2, avg_aug_size=13.0
+  Suite 46: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 47: initial=9, augmentations=10, revealed=1, avg_aug_size=12.0
+  Suite 48: initial=9, augmentations=10, revealed=1, avg_aug_size=12.0
+  Suite 49: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 50: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 51: initial=9, augmentations=10, revealed=2, avg_aug_size=13.0
+  Suite 52: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 53: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 54: initial=9, augmentations=10, revealed=2, avg_aug_size=12.8
+  Suite 55: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 56: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 57: initial=9, augmentations=10, revealed=1, avg_aug_size=12.9
+  Suite 58: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 59: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 60: initial=9, augmentations=10, revealed=0, avg_aug_size=12.6
+  Suite 61: initial=9, augmentations=10, revealed=1, avg_aug_size=12.8
+  Suite 62: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 63: initial=9, augmentations=10, revealed=1, avg_aug_size=12.0
+  Suite 64: initial=9, augmentations=10, revealed=2, avg_aug_size=12.7
+  Suite 65: initial=9, augmentations=10, revealed=0, avg_aug_size=12.4
+  Suite 66: initial=9, augmentations=10, revealed=0, avg_aug_size=12.6
+  Suite 67: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 68: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 69: initial=9, augmentations=10, revealed=1, avg_aug_size=12.5
+  Suite 70: initial=9, augmentations=10, revealed=2, avg_aug_size=13.0
+  Suite 71: initial=9, augmentations=10, revealed=0, avg_aug_size=12.7
+  Suite 72: initial=9, augmentations=10, revealed=1, avg_aug_size=12.5
+  Suite 73: initial=9, augmentations=10, revealed=0, avg_aug_size=12.8
+  Suite 74: initial=9, augmentations=10, revealed=0, avg_aug_size=12.0
+  Suite 75: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 76: initial=9, augmentations=10, revealed=0, avg_aug_size=12.0
+  Suite 77: initial=9, augmentations=10, revealed=0, avg_aug_size=12.9
+  Suite 78: initial=9, augmentations=10, revealed=0, avg_aug_size=12.9
+  Suite 79: initial=9, augmentations=10, revealed=0, avg_aug_size=12.5
+  Suite 80: initial=9, augmentations=10, revealed=3, avg_aug_size=13.0
+  Suite 81: initial=9, augmentations=10, revealed=2, avg_aug_size=12.8
+  Suite 82: initial=9, augmentations=10, revealed=1, avg_aug_size=12.7
+  Suite 83: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 84: initial=9, augmentations=10, revealed=0, avg_aug_size=12.7
+  Suite 85: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 86: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 87: initial=9, augmentations=10, revealed=2, avg_aug_size=13.0
+  Suite 88: initial=9, augmentations=10, revealed=1, avg_aug_size=13.0
+  Suite 89: initial=9, augmentations=10, revealed=1, avg_aug_size=12.9
+  Suite 90: initial=9, augmentations=10, revealed=0, avg_aug_size=12.5
+  Suite 91: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 92: initial=9, augmentations=10, revealed=0, avg_aug_size=12.7
+  Suite 93: initial=9, augmentations=10, revealed=1, avg_aug_size=12.7
+  Suite 94: initial=9, augmentations=10, revealed=0, avg_aug_size=12.9
+  Suite 95: initial=9, augmentations=10, revealed=0, avg_aug_size=12.0
+  Suite 96: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 97: initial=9, augmentations=10, revealed=0, avg_aug_size=13.0
+  Suite 98: initial=9, augmentations=10, revealed=0, avg_aug_size=12.8
+  Suite 99: initial=9, augmentations=10, revealed=1, avg_aug_size=12.6
+  Suite 100: initial=9, augmentations=10, revealed=0, avg_aug_size=12.8
